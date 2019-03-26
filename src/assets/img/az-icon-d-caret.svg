@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="10px" viewBox="0 0 9 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>az-icon-d-caret</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="注册登录" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-登录后未绑定谷歌验证" transform="translate(-1531.000000, -791.000000)" fill="#D8D8D8">
+            <g id="Group-32" transform="translate(-397.000000, 0.000000)">
+                <g id="交易列表-copy" transform="translate(757.000000, 721.000000)">
+                    <g id="Group-10" transform="translate(0.000000, 50.000000)">
+                        <g id="Group-6-Copy-4" transform="translate(1094.000000, 15.000000)">
+                            <path d="M80.4670239,14.5715399 L77.3806147,11.5683653 C76.7280245,10.9333743 76.9332522,10.4073131 77.8533283,10.4073131 L84.2769349,10.4073131 C85.1935811,10.4073131 85.4086521,10.9271339 84.7496485,11.5683653 L81.6632393,14.5715399 C81.3273806,14.8983412 80.7973497,14.8929574 80.4670239,14.5715399 Z M80.4670239,5.24308623 C80.7973497,4.92166874 81.3273806,4.91628495 81.6632393,5.24308623 L84.7496485,8.24626077 C85.4086521,8.88749224 85.1935811,9.40731305 84.2769349,9.40731305 L77.8533283,9.40731305 C76.9332522,9.40731305 76.7280245,8.88125182 77.3806147,8.24626077 L80.4670239,5.24308623 Z" id="az-icon-d-caret"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

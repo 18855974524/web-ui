@@ -1,0 +1,226 @@
+
+
+.chart-page * {
+  font-family: 'OpenSans','PingFangSC_Medium'
+}
+
+.chart-page .js-rootresizer__contents {
+  background: #000
+}
+
+.chart-page .chart-container {
+  border: 0;
+  background-color: #1d2026;
+}
+
+.chart-page .tv-side-toolbar {
+  border-right: 0
+}
+
+.chart-page .header-chart-panel {
+  background-color: #1d2026
+}
+
+.chart-page .tv-floating-toolbar .tv-floating-toolbar__widget-wrapper .tv-floating-toolbar__drag,.chart-page .tv-floating-toolbar .tv-floating-toolbar__widget-wrapper input {
+  background: #333740
+}
+
+.chart-page .header-chart-panel-content .group {
+  float: left
+}
+
+.chart-page .header-chart-panel-content .header-group-indicators {
+  float: none
+}
+
+.chart-page .header-chart-panel-content .header-group-fullscreen {
+  float: right
+}
+
+.chart-page .header-chart-panel-content .button svg {
+  fill: #686e7a;
+  width: 16px;
+  height: 16px
+}
+
+.chart-page .header-chart-panel-content .button:hover svg {
+  fill: #929aa8
+}
+
+.chart-page .tv-side-toolbar .tools-group .button svg {
+  fill: #686e7a
+}
+
+.chart-page .tv-side-toolbar .tools-group .button:active,.chart-page .tv-side-toolbar .tools-group .button:hover,.chart-page .tv-side-toolbar .tools-group .button.selected {
+  background-color: #333740
+}
+
+.chart-page .tv-side-toolbar .tools-group .button.selected svg,.chart-page .tv-side-toolbar .tools-group .button:hover svg,.chart-page .tv-side-toolbar .tools-group .button:active svg {
+  fill: #929aa8
+}
+
+.chart-page .chart-container .chart-status-picture {
+  display: none
+}
+
+.chart-page .charts-popup-list {
+  background-color: #333740;
+  color: #888;
+  border-color: #333740
+}
+
+.chart-page .header-chart-panel .button {
+  background: transparent;
+  border-color: transparent;
+  color: #686e7a;
+  padding: 7px 10px;
+  line-height: 16px;
+  cursor: pointer;
+  display: inline-block
+}
+
+.chart-page ._tv-dialog .button:not(.disabled):not(.selected):hover:before,.chart-page ._tv-dialog .custom-select .switcher:not(.disabled):not(.selected):hover:before,.chart-page ._tv-dialog .favored-list-container span:not(.disabled):not(.selected):hover:before,.chart-page ._tv-dialog .submenu:not(.disabled):not(.selected):hover:before,.chart-page .bottom-widgetbar-content.backtesting .button:not(.disabled):not(.selected):hover:before,.chart-page .bottom-widgetbar-content.backtesting .custom-select .switcher:not(.disabled):not(.selected):hover:before,.chart-page .bottom-widgetbar-content.backtesting .favored-list-container span:not(.disabled):not(.selected):hover:before,.chart-page .bottom-widgetbar-content.backtesting .submenu:not(.disabled):not(.selected):hover:before,.chart-page .header-chart-panel .button:not(.disabled):not(.selected):hover:before,.chart-page .header-chart-panel .custom-select .switcher:not(.disabled):not(.selected):hover:before,.chart-page .header-chart-panel .favored-list-container span:not(.disabled):not(.selected):hover:before,.chart-page .header-chart-panel .submenu:not(.disabled):not(.selected):hover:before,.chart-page .properties-toolbar .button:not(.disabled):not(.selected):hover:before,.chart-page .properties-toolbar .custom-select .switcher:not(.disabled):not(.selected):hover:before,.chart-page .properties-toolbar .favored-list-container span:not(.disabled):not(.selected):hover:before,.chart-page .properties-toolbar .submenu:not(.disabled):not(.selected):hover:before {
+  display: none
+}
+
+.chart-page .favored-list-container span:hover,.chart-page .header-chart-panel .button:hover,.chart-page .symbol-edit-widget .button:hover,.chart-page .favored-list-container span:focus,.chart-page .header-chart-panel .button:focus,.chart-page .symbol-edit-widget .button:focus {
+  background: #333740;
+  border: 1px solid #929aa8;
+  color: #929aa8
+}
+
+/*.feature-no-touch .chart-page .toggleButton-2o6YKJ1g-:hover svg,*/
+/*.chart-page .toggleButton-2o6YKJ1g-.willOpen-FfEto9H9- svg{*/
+  /*fill:#c9933e;*/
+/*}*/
+.feature-no-touch .chart-page .separator-3cgsM4c1-{
+  background-color: #929aa8;
+}
+.feature-no-touch .chart-page  .header-chart-panel .button:hover:not(.disabled),
+.feature-no-touch .chart-page  .symbol-edit-widget .button:hover:not(.disabled){
+  color: #929aa8
+}
+
+.chart-page .header-chart-panel .button.select,
+.chart-page .header-chart-panel .button.select {
+  background: #333740;
+  border-color: #333740;
+  color: #929aa8
+}
+
+.chart-page .charts-popup-list .separator {
+  border-color: #353535
+}
+
+.chart-page .charts-popup-list .item.active {
+  background-color: #333740
+}
+
+.chart-page .drawings-popup-list.iconed .item .shortcut,.chart-page .drawings-popup-list .item .shortcut,.chart-page .charts-popup-list .item span {
+  color: #929aa8
+}
+
+.chart-page .charts-popup-list .item:hover {
+  background-color: #40444d
+}
+
+.chart-page .drawings-popup-list.iconed .item:hover .shortcut,.chart-page .drawings-popup-list .item:hover .shortcut,.chart-page .charts-popup-list .item:hover span {
+  color: #c8cedb
+}
+
+.chart-page .tv-close-panel {
+  width: 12px;
+  height: 44px;
+  left: 52px;
+  border-radius: 0 4px 4px 0;
+  background-color: #333740;
+  border: 0
+}
+
+.chart-page .tv-side-toolbar .tools-group .button .main.text-as-icon {
+  color: #686e7a
+}
+
+.chart-page .drawing-favorites-toolbar .tools-group .button,.chart-page .tv-side-toolbar .tools-group .button:active,.chart-page .tv-side-toolbar .tools-group .button:hover,.chart-page .feature-touch .tv-side-toolbar .tools-group .button:active,.chart-page .properties-toolbar .tools-group .button,.chart-page .tv-side-toolbar .tools-group .button.active,.chart-page .tv-side-toolbar .tools-group .button.selected,.chart-page .drawing-favorites-toolbar .tools-group .button.active,.chart-page .drawing-favorites-toolbar .tools-group .button:active,.chart-page .properties-toolbar .tools-group .button:active,.chart-page .tv-side-toolbar .tools-group .button:active .side,.chart-page .tv-side-toolbar .tools-group .button:not(.subgroup):active,.chart-page .feature-touch .drawing-favorites-toolbar .tools-group .button:active,.chart-page .feature-touch .properties-toolbar .tools-group .button:active,.chart-page .feature-touch .tv-side-toolbar .tools-group .button:active .side,.chart-page .feature-touch .tv-side-toolbar .tools-group .button:not(.subgroup):active,.chart-page .properties-toolbar .tools-group .button.active,.chart-page .tv-side-toolbar .tools-group .button.active .side,.chart-page .tv-side-toolbar .tools-group .button.selected .main,.chart-page .tv-side-toolbar .tools-group .button:not(.subgroup).active,.chart-page .tv-side-toolbar .tools-group .button:not(.subgroup).selected {
+  background: #333740;
+  border-color: transparent
+}
+
+.chart-page .tv-side-toolbar .tools-group:not(:first-child):not(.no-delimiter):before {
+  background: #b2b2b2
+}
+
+.chart-page .favored-list .to-quick.quicked {
+  opacity: 1
+}
+
+.chart-page .favored-list .to-quick.quicked svg {
+  fill: #f79217!important
+}
+
+.chart-page .favored-list-container span.active,.chart-page .favored-list-container span.selected,.chart-page .favored-list-container span:active,.chart-page .favored-list-container span:active {
+  background: #232323!important
+}
+
+.chart-page .bottom-widgetbar-content.backtesting .button.active,.ch-controls .button.active,.chart-page .bottom-widgetbar-content.backtesting .button:active,.chart-page .ch-controls .button:active,.chart-page .header-chart-panel .button.active:hover,.chart-page .header-chart-panel .button:active,.chart-page .hotlist-controls .button:active,.chart-page .save-load-buttons .active:hover,.chart-page .save-load-buttons a:not(.link):active,.chart-page .symbol-edit-widget .button:active,.chart-page .bottom-widgetbar-content.backtesting .button:active,.chart-page .ch-controls .button:active,.chart-page .header-chart-panel .button:active,.chart-page .hotlist-controls .button:active,.chart-page .save-load-buttons a:not(.link):active,.chart-page .symbol-edit-widget .button:active,.chart-page .header-chart-panel .button.active,.chart-page .hotlist-controls .button.active,.chart-page .save-load-buttons .active,.chart-page .symbol-edit-widget .button.active {
+  background: #232323!important
+}
+
+.chart-page .button.indicators.active svg {
+  fill: #b2b2b2
+}
+
+.chart-page .layout__area--left .tv-side-toolbar {
+  height: 100%
+}
+
+.loading-indicator {
+  background: #1d2026
+}
+
+.chart-page .pane-legend .pane-legend-line.pane-legend-wrap.main .pane-legend-line.apply-overflow-tooltip,.chart-page .pane-legend .pane-legend-minbtn {
+  display: none
+}
+
+.chart-page .pane-legend-line.pane-legend-wrap.main {
+  padding-right: 5px!important;
+  min-width: 368px
+}
+
+.chart-page .pane-legend-line.pane-legend-wrap {
+  display: inline-block
+}
+
+.chart-page .pane-legend-item-value-wrap .pane-legend-item-value,
+.chart-page .pane-legend-item-value-wrap .pane-legend-item-value-title__main,
+.chart-page .pane-legend-item-value-wrap .pane-legend-item-value__main{
+  font-size:12px;
+  line-height:20px;
+}
+.chart-page .pane-legend{
+  white-space: normal;
+}
+
+.chart-page .pane-legend-line.pane-legend-wrap.study {
+  /*max-width: 160px;*/
+  margin-left: 5px;
+  display: inline-block;
+}
+
+.chart-page .pane-legend .pane-legend-wrap.study>span.pane-legend-line {
+  /*max-width: 96px;*/
+  text-overflow: ellipsis;
+  padding-right: 0;
+  max-width: none;
+}
+
+.chart-page .pane-legend .pane-legend-wrap.study:first-child>span.pane-legend-line {
+  /*max-width: 88px*/
+  max-width: none;
+
+}
+
+.chart-page tr:nth-child(3) .pane-legend .pane-legend-wrap.study {
+  visibility: hidden
+}
+

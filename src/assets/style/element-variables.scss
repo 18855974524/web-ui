@@ -1,0 +1,14 @@
+//重写全局的主题样式
+
+$--color-primary: #C9933E !default;
+$--color-white: #ffffff !default;
+
+$--color-success: #0ABF74 !default;
+$--color-warning: #FFAB20 !default;
+$--color-danger: #FF5C26 !default;
+$--color-info: #41A0E6 !default;
+
+
+/* 改变 icon 字体路径变量，必需 */
+$--font-path: '~element-ui/lib/theme-chalk/fonts';
+@import "../../../node_modules/element-ui/packages/theme-chalk/src/index";

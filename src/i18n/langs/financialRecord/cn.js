@@ -1,0 +1,22 @@
+export default {
+  financial:{
+    ChargeMoneyRecord:'充值记录',
+    MentionMoneyRecord:'提币记录',
+    OthersRecord:'全部记录',
+    time:'时间',
+    quantity:'数量',
+    confirmTime:'确认次数',
+    status:'状态',
+    details:'查看详情',
+    abnormalOrders:'异常订单',
+    unconfirmed:'待确认',
+    confirmationSuc:'确认成功',
+    completed:'已完成',
+    rechargeAbnormal:'充值异常',
+    failureAudit:'审核失败',
+    charge:'提币手续费',
+    address:'提币地址',
+    addressname:'地址名称地址名称',
+    type:'类型'
+  }
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="5px" viewBox="0 0 8 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>az-icon-caret-bottom</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="01-Basic" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon" transform="translate(-90.000000, -86.000000)" fill="#121212">
+            <path d="M93.2942268,85.7057732 C93.6840146,85.3159854 94.3127724,85.3127724 94.7057732,85.7057732 L97.580575,88.580575 C98.3645018,89.3645018 98.1125667,90 97.000385,90 L90.999615,90 C89.8952581,90 89.6332535,89.3667465 90.419425,88.580575 L93.2942268,85.7057732 Z" id="az-icon-caret-bottom" transform="translate(94.000000, 88.000000) scale(1, -1) translate(-94.000000, -88.000000) "></path>
+        </g>
+    </g>
+</svg>
